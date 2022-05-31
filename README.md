@@ -1,3 +1,4 @@
+OBS.: Scripts nas pastas acima.
 
 
 Este dataset faz parte de uma das atividades proposta no curso SQL para Data Science, da instituição Data Science Academy, sendo o objetivo desta atividade é consloidar alguns dos conceitos aprendidos em aula através da elaboração de queries que respondam algumas das perguntas propostas acerca dos dados disponibilizados. 
